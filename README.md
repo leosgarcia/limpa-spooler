@@ -56,3 +56,9 @@ O arquivo `LimpaSpooler.exe` estará disponível em `bin\Release\net8.0-windows\
 ## 📄 Licença
 
 Este projeto é distribuído sob a licença MIT. Sinta-se à vontade para utilizá-lo, modificá-lo e distribuí-lo.
+
+---
+<div align="center">
+  <a href="https://buymeacoffee.com/leosgarcia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
+
